@@ -18,7 +18,7 @@ Me apasiona aprender tecnologías nuevas y construir cosas reales desde el prime
 # 🚀 Proyectos:
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Calculadora](https://github.com/VicenttMR) | Calculadora funcional | HTML, CSS, JS |
+| [Calculadora](https://github.com/VicenttMR/calculadora-javafx) | Calculadora funcional | HTML, CSS, JS |
 | [Angular Web](https://github.com/VicenttMR/AngularTest1) | Web con navbar y routing | Angular |
 | [Dashboard Login](https://github.com/VicenttMR/DashboardAppTest) | Login con autenticación | Angular |
 | [Dashboard Material](https://github.com/VicenttMR/AngularMaterialTest) | Dashboard con Material | Angular |
