@@ -12,14 +12,6 @@ Actualmente en prácticas desarrollando agentes de IA y aplicaciones web con Ang
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-## 🚀 Proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Calculadora](https://github.com/VicenttMR) | Calculadora funcional | HTML, CSS, JS |
-| [Angular Web](https://github.com/VicenttMR/AngularTest1) | Web con navbar, routing y páginas | Angular |
-| [Dashboard con Login](https://github.com/VicenttMR/DashboardAppTest) | Sistema de login con autenticación y dashboard | Angular |
-| [Dashboard Material](https://github.com/VicenttMR/AngularMaterialTest) | Dashboard con Angular Material | Angular, Material |
 
 ## 📫 Contacto
 
