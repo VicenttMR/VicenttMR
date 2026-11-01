@@ -1,7 +1,7 @@
 # 💫 About Me:
 Tengo 20 años y estoy estudiando DAW en Valencia. 
 Actualmente en prácticas desarrollando agentes de IA con LangChain y aplicaciones web con Angular.
-Me apasiona aprender tecnologías nuevas y construir cosas reales desde el primer día.
+Me apasiona aprender tecnologías nuevas y construir apps/webs desde 0.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vicent-moragues-8a4948359)
